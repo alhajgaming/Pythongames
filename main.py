@@ -1,3 +1,4 @@
+#code by alhajkhan
 import random
 if __name__ == '__main__':
     #comment for rock paper scrissor game
